@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Build Successful");
         System.out.println("Triggering every 1 Min SCM Poll");
         System.out.println("Check");
+        System.out.println("Test");
     }
 }
