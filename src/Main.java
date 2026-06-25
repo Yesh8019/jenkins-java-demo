@@ -7,7 +7,5 @@ public class Main {
         System.out.println("Hello from jenkins");
         System.out.println("Build Successful");
         System.out.println("Triggering every 1 Min SCM Poll");
-
-        System.out.println("Test");
     }
 }
