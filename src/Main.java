@@ -6,7 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello from jenkins");
         System.out.println("Build Successful");
-        System.out.println("Triggering every 1 Min SCM Poll");
         System.out.println("2 Min PollCheck");
         
     }
